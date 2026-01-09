@@ -4,4 +4,4 @@ Some personal interests are physics, philosophy, skateboarding, Dungeons and Dra
 Below you can find some of my relevant projects. If you want to see more from me, you can check out some of my other links too:
 - [itch.io](https://mr-pancake.itch.io/)
 - [LinkedIn](https://www.linkedin.com/in/ren%C3%A9-hammink-a2131b357/)
-
+- [Resume / Cirriculum Vitae](RenéHamminkResume.pdf)
