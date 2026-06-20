@@ -5,3 +5,4 @@ Below you can find some of my relevant projects. If you want to see more from me
 - [itch.io](https://mr-pancake.itch.io/)
 - [LinkedIn](https://www.linkedin.com/in/ren%C3%A9-hammink-a2131b357/)
 - [ArtStation](https://mr_pancake.artstation.com/projects)
+- [Resume](/OnePageResume.pdf)
